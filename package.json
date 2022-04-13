@@ -2,6 +2,8 @@
   "name": "vscode-deflist",
   "displayName": "Markdown Definition List",
   "description": "An extension that adds the awesome [markdown-it-deflist](https://github.com/GerHobbelt/markdown-it-deflist) extension to the VS Code Markdown-It instance.",
+  "repository": {"url": "https://github.com/Billaferd/vscode-deflist.git"},
+  "publisher": "Billaferd",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.66.0"
